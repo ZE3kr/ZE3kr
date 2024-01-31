@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm James Guo! 👋
 
-<!--
-**ZE3kr/ZE3kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science enthusiast and a competent "Hacker" with a focus on front-end development. My journey in tech has led me through exciting experiences from building dashboards for TikTok's life services at ByteDance to developing an IDE for WeChat mini-app developers at Tencent. I'm currently advancing my skills in Electrical & Computer Engineering at Duke University, aiming to complete my Master's by May 2025.
 
-Here are some ideas to get you started:
+**What I'm passionate about:**
+- **Front-End Development:** Proficient in JavaScript, TypeScript, and React. I love crafting elegant interfaces and user experiences.
+- **Building and Hacking:** Using code to improve my own life and started my website during high school.
+- **Learning and Sharing:** Always on the lookout to learn new technologies and help build open-source software with the community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Achievements:**
+- Summa Cum Laude graduate in Computer Science from Washington University in St. Louis.
+- Played a key role at ByteDance and Tencent, enhancing user engagement through innovative front-end solutions.
+- Co-founded TLOxygen, serving over 500 users with domain and hosting services.
+- Recognized in various contests for my problem-solving abilities and contributions to programming and mathematics.
+
+**Let's Connect!**
+- 🌐 [My Website](https://www.ze3kr.com)
+- 📫 [Email Me](mailto:i@ze3kr.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ze3kr/)
