@@ -1,6 +1,6 @@
 ### Hi there, I'm James Guo! 👋
 
-I'm a programming enthusiast and a competent “hacker” with a focus on front-end development. My journey in tech has led me through exciting experiences from building TikTok's life services at ByteDance to developing the official IDE for WeChat mini-app developers at Tencent. I'm currently advancing my skills at Duke University, aiming to complete my Master's by May 2025.
+I'm a programming enthusiast and a competent “hacker” with a focus on front-end development. I have built a crucial IDE for WeChat mini-app developers at Tencent and maintained the life services platform at ByteDance's TikTok. Currently, I am at Duke University, where I aim to earn my Master's by December 2024.
 
 **What I'm passionate about:**
 - **Front-End Development:** Proficient in JavaScript, TypeScript, and React. I love crafting elegant interfaces and user experiences.
