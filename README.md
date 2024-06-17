@@ -1,6 +1,6 @@
 ### Hi there, I'm James Guo! 👋
 
-I'm a programming enthusiast and a competent “hacker” with a focus on front-end development. I have built a crucial IDE for WeChat mini-app developers at Tencent and maintained the life services platform at ByteDance's TikTok. Currently, I am at Duke University, where I aim to earn my Master's by December 2024.
+I'm a programming enthusiast and a competent “hacker” with a focus on front-end development. I have built a crucial IDE for WeChat mini-app developers at Tencent and maintained the life services platform at ByteDance's TikTok.
 
 **What I'm passionate about:**
 - **Front-End Development:** Proficient in JavaScript, TypeScript, and React. I love crafting elegant interfaces and user experiences.
@@ -9,7 +9,7 @@ I'm a programming enthusiast and a competent “hacker” with a focus on front-
 
 **Achievements:**
 - Summa Cum Laude graduate in Computer Science from Washington University in St. Louis.
-- Co-founded TLOxygen, serving over 500 users with domain and hosting services.
+- Co-founded TLOxygen, serving over 2,000 users with domain and hosting services.
 - Recognized in various contests for my problem-solving abilities and contributions to programming and mathematics.
 
 **Let's Connect!**
